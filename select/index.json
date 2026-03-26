@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "No.6",
+  "base_artist": "伊藤美来、Lowland Jazz",
+  "createdAt": "2026-03-26T21:18:01.422633Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mambo No. 6",
+      "artist": "William Crooks",
+      "has_synced": false,
+      "path": "select/01_Mambo_No._6_William_Crooks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Leave the Engine Room - Live at Festival No.6, Portmerion Wales, 2018",
+      "artist": "Everything Everything",
+      "has_synced": false,
+      "path": "select/02_Leave_the_Engine_Room_-_Live_at_Festival_No.6,_Portmerion_Wales,_2018_Everything_Everything.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "New Deep/White Whale - Live at Festival No.6, Portmerion Wales, 2018",
+      "artist": "Everything Everything",
+      "has_synced": false,
+      "path": "select/03_New_Deep_White_Whale_-_Live_at_Festival_No.6,_Portmerion_Wales,_2018_Everything_Everything.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "No Reptiles - Live at Festival No.6, Portmerion Wales, 2018",
+      "artist": "Everything Everything",
+      "has_synced": false,
+      "path": "select/04_No_Reptiles_-_Live_at_Festival_No.6,_Portmerion_Wales,_2018_Everything_Everything.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The House is Dust - Live at Festival No.6, Portmerion Wales, 2018",
+      "artist": "Everything Everything",
+      "has_synced": false,
+      "path": "select/05_The_House_is_Dust_-_Live_at_Festival_No.6,_Portmerion_Wales,_2018_Everything_Everything.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Mariana - Live at Festival No.6, Portmerion Wales, 2018",
+      "artist": "Everything Everything",
+      "has_synced": false,
+      "path": "select/06_The_Mariana_-_Live_at_Festival_No.6,_Portmerion_Wales,_2018_Everything_Everything.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "God Walks Among Us Now-Jesus Song No. 6 (Remastered)",
+      "artist": "The Flaming Lips",
+      "has_synced": false,
+      "path": "select/07_God_Walks_Among_Us_Now-Jesus_Song_No._6_(Remastered)_The_Flaming_Lips.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Reflection No. 6",
+      "artist": "Vansire",
+      "has_synced": false,
+      "path": "select/08_Reflection_No._6_Vansire.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Country Pie / Brandenburg Concerto No. 6",
+      "artist": "The Nice",
+      "has_synced": false,
+      "path": "select/09_Country_Pie___Brandenburg_Concerto_No._6_The_Nice.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Country Pie Brandenburg Concerto No.6",
+      "artist": "Nice, The",
+      "has_synced": false,
+      "path": "select/10_Country_Pie_Brandenburg_Concerto_No.6_Nice,_The.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ellen's Gesang III (Ave Maria!), Op. 56, No. 6, D. 839 \"Hymne an die Jungfrau\"",
+      "artist": "Franz Schubert",
+      "has_synced": false,
+      "path": "select/11_Ellen's_Gesang_III_(Ave_Maria!),_Op._56,_No._6,_D._839__Hymne_an_die_Jungfrau_Franz_Schubert.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "No.6",
+      "artist": "伊藤美来、Lowland Jazz",
+      "has_synced": false,
+      "path": "select/pl_01_No.6_伊藤美来、Lowland_Jazz.txt"
+    }
+  ]
+}
